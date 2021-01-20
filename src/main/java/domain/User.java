@@ -11,7 +11,7 @@ public class User {
 
   public void setUsername(String username) {
 
-    if (username != null) {
+    if (username != "") {
 
       this.username = username;
     }
@@ -22,7 +22,7 @@ public class User {
   }
 
   public void setProssword(String prossword) {
-    if (prossword != null) {
+    if (prossword != "") {
 
       this.prossword = prossword;
     }

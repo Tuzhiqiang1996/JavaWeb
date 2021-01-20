@@ -29,14 +29,15 @@ public class Regin extends HttpServlet {
     //调用UserDao、User
     User u = new User();
     UserDao ud = new UserDao();
-
-    //添加用户提交的数据到数据库
+//添加用户提交的数据到数据库
     u.setUsername(username);
     u.setProssword(possword);
     //处理结果跳转相应页面
     boolean flag = ud.save(u);
     if (flag) {
       if (username != "" && possword != "") {
+
+
         response.sendRedirect("/logingoto");
         System.out.println("注册成功！");
       }else{

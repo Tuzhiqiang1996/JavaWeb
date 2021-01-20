@@ -6,7 +6,7 @@ import java.util.Collection;
 
 public class DButil {
   private static String driver = "com.mysql.jdbc.Driver";
-  private static String url = "jdbc:mysql://127.0.0.1:3306/test";
+  private static String url = "jdbc:mysql://127.0.0.1:3306/test?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8";
   private static String user = "root";
   private static String pwd ="";
 
