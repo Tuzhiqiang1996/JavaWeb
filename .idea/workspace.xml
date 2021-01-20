@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8808a5a7-1bde-4771-b9c3-590f9af96340" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JavaWeb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/Regin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/Regin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/DButil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/DButil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/Regin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlet/Regin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/DButil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/DButil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/register_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/register_jsp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/register_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/register_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2021-01-20" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2021-01-20" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,22 +178,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610614462425" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1611124116851">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1611127584673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611124116851" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1611124116851">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611127584673" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1611127584673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611124116851" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1611124116851">
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611127584673" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1611127584673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611124116851" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1611124116851">
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611127584673" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1611127584673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611124116851" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611127584673" />
     <state x="439" y="159" key="SettingsEditor" timestamp="1610614715311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
