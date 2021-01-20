@@ -61,3 +61,8 @@ java 中 在web.xml 已经定义好的
 
 在web.xml
 中定义好路由一样的格式 方便跳转 /想要跳转的路径或者变量
+
+
+### mysql 插入中文报错: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value...
+
+ [地址](https://www.cnblogs.com/fysola/p/6160955.html)
